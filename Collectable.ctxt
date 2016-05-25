@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Collectable()
+comment1.params=g\ d
+comment1.target=void\ paint(java.awt.Graphics,\ java.awt.Color)
+comment2.params=
+comment2.target=void\ NewPosition()
+comment3.params=
+comment3.target=void\ NewColor()
+comment4.params=
+comment4.target=int\ getXcenter()
+comment5.params=
+comment5.target=int\ getYcenter()
+comment6.params=
+comment6.target=java.awt.Color\ getColor()
+numComments=7
